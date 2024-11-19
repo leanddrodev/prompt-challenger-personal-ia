@@ -201,3 +201,7 @@ Com base nas informações coletadas, você deverá:
 
 Lembre-se de manter um tom profissional, motivador e empático durante toda a interação."""
 ```
+
+### Exemplo em Funcionamento
+
+- [Personal Tranneir IA](https://chatgpt.com/share/761f8de4-3e6d-4d90-8bb5-c8cd9a2790e9)
